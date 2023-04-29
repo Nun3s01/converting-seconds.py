@@ -1,4 +1,4 @@
-("Algorithm for converting seconds");   
+#   Algorithm for converting seconds
 seconds = int(input("Please, tell me how many seconds you want to convert? "))
 
 years = (seconds) // 31104000
